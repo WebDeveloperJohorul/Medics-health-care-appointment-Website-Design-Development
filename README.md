@@ -1,2 +1,1 @@
-# Medics-health-care-appointment-Website-Design-Development
-Medisch – is a Modern Responsive Website for Healthcare &amp; Medical websites. This is built with HTML5, Bootstrap, JavaScript, Scss, and jQuery. The Website homepage layout (fullscreen, fullwidth ), also included a fully responsive media grid plugin that allows you to control the layout of your item grid in the way that pleases you most.
+
